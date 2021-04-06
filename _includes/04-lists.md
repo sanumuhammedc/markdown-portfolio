@@ -1,5 +1,3 @@
-:tada:
-:tada:
 <h4>useful sites for learning programming</h4>
 1. freecodecamp.org
 2. khanacademy
